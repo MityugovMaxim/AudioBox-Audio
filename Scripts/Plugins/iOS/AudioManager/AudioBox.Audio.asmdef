@@ -1,8 +1,12 @@
 {
     "name": "AudioBox.Audio",
-    "references": [],
+    "references": [
+        "GUID:06d072c629e2d4b43ba4c3747676c0c1"
+    ],
     "includePlatforms": [],
-    "excludePlatforms": [],
+    "excludePlatforms": [
+        "iOS"
+    ],
     "allowUnsafeCode": false,
     "overrideReferences": true,
     "precompiledReferences": [
