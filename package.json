@@ -2,8 +2,5 @@
   "name": "com.audiobox.audio",
   "version": "1.0.0",
   "displayName": "AudioBox Audio",
-  "unity": "2019.3",
-  "dependencies": {
-    "com.audiobox.zenject": "https://github.com/MityugovMaxim/AudioBox-Zenject.git"
-  }
+  "unity": "2019.3"
 }
